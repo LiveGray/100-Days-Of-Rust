@@ -27,4 +27,5 @@ We encourage you to share your progress and ask questions in the Discussions sec
 
 
 # Project List
+- Hello Rainbow
 - Guessing Game
