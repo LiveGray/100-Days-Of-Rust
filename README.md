@@ -42,3 +42,4 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #10       | us_presidents          | :white_large_square:      |
 | Day #11       | pig_latin.             | :white_large_square:      |
 | Day #12       | card_dealer            | :white_large_square:      |
+| Day #13       | reverser               | :white_check_mark:        |
