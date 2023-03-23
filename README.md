@@ -33,13 +33,13 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #1        | hello_rainbow          | :white_check_mark:        |
 | Day #2        | guessing_game          | :white_check_mark:        |
 | Day #3        | sha1_cracker           | :white_check_mark:        |
-| Day #4        | random_quote           | :white_large_square:      |
+| Day #4        | random_quote           | :white_check_mark:        |
 | Day #5        | rock_ paper_ scissors  | :white_large_square:      |
 | Day #6        | dice_roller            | :white_large_square:      |
 | Day #7        | password_generator     | :white_check_mark:        |
 | Day #8        | ip_checker             | :white_large_square:      |
 | Day #9        | states_parser          | :white_check_mark:        |
 | Day #10       | us_presidents          | :white_large_square:      |
-| Day #11       | pig_latin.             | :white_large_square:      |
+| Day #11       | pig_latin              | :white_large_square:      |
 | Day #12       | card_dealer            | :white_large_square:      |
 | Day #13       | reverser               | :white_check_mark:        |
