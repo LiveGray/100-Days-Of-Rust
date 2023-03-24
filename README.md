@@ -1,5 +1,9 @@
-# 100 Days Of Rust
+<h1 align="center">100 Days of Rust 🦀 </h1>
+<p align="center">
+<img width="" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4796b9znwjl0zqxljtzh2xe4yer17y5oojmj5kztep&rid=giphy.gif&ct=g" align="center" alt="gif" />
+</p>
 
+# Introduction
 Welcome to the 100 Days of Rust Coding Challenge! This challenge is designed to help you learn and improve your Rust programming skills over the course of 100 days.
 
 Each day, you will tackle a new Rust programming concept, project, or problem. You will learn about ownership and borrowing, concurrency and parallelism, the Rust standard library, web development with Rust, game development with Rust, machine learning in Rust, system programming in Rust, cryptography in Rust, and blockchain development in Rust.
@@ -13,6 +17,19 @@ Fork this repository and create a new branch to track your progress.
 Commit to coding and learning Rust for at least an hour every day for 100 days.
 Share your progress on social media with the hashtag #100DaysOfRustCodingChallenge and tag @DomSecRocks on Twitter.
 We encourage you to share your progress and ask questions in the Discussions section of this repository.
+
+# Rules
+- The main rule is: Code at least an hour every day (don't skip weekends/holidays)
+
+- Choose an area of Rust you wan't to learn or improve
+
+- Share your progress daily in your social medias
+
+- Try not to copy code from the internet
+
+- Try to come up with a clean and elegant solution
+ 
+- Once you can, write tests (and make them pass)
 
 # Resources
 [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html)
