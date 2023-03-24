@@ -43,7 +43,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
 
-# Project List
+# Project List - Will be updated soon
 
 | Day           | Project Name           | Completed                 |
 | ------------- |:----------------------:| -------------------------:|
