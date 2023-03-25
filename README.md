@@ -47,16 +47,16 @@ We encourage you to share your progress and ask questions in the Discussions sec
 
 | Day           | Project Name                       | Completed                 |
 | ------------- |:-------------------------------------:| -------------------------:|
-| Day #1        | Convert Age To Days                   | :white_large_square:      |
-| Day #2        | Finding Nemo                          | :white_large_square:      |
-| Day #3        | Barbecue Skewers                      | :white_large_square:      |
-| Day #4        | Is Johnny Making Progress             | :white_large_square:      |
-| Day #5        | Pair Of Socks                         | :white_large_square:      |
-| Day #6        | Next Prime                            | :white_large_square:      |
-| Day #7        | Merge Sorted Array                    | :white_large_square:      |
-| Day #8        | Letter Combinations Of A Phone Number | :white_large_square:      |
-| Day #9        | Trapping Rain Water                   | :white_large_square:      |
-| Day #10       | Unique Binary Search Tree             | :white_large_square:      |
+| Day #1        | [Convert Age To Days](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-01/Day-01_Convert-Ages-To-Days)                   | :white_large_square:      |
+| Day #2        | [Finding Nemo](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-01/Day-02_Finding-Nemo)                          | :white_large_square:      |
+| Day #3        | [Barbecue Skewers](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-01/Day-03_Barbecue-Skewers)                      | :white_large_square:      |
+| Day #4        | [Is Johnny Making Progress](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-01/Day-04_Is-Johnny-Making-Progress)             | :white_large_square:      |
+| Day #5        | [Pair Of Socks](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-01/Day-05_Pair-Of-Socks)                         | :white_large_square:      |
+| Day #6        | [Next Prime](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-01/Day-06_Next-Prime)                            | :white_large_square:      |
+| Day #7        | [Merge Sorted Array](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-01/Day-07_Merge-Sorted-Array)                    | :white_large_square:      |
+| Day #8        | [Letter Combinations Of A Phone Number](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-02/Day-08_Letter-Combinations-Of-A-Phone-Number) | :white_large_square:      |
+| Day #9        | [Trapping Rain Water](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-02/Day-09_Trapping-Rain-Water)                   | :white_large_square:      |
+| Day #10       | [Unique Binary Search Tree](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-02/Day-10_Unique-Binary-Search-Trees)             | :white_large_square:      |
 | Day #11       | Restore IP Addresses                  | :white_large_square:      |
 | Day #12       | Mountains or Valleys                  | :white_large_square:      |
 | Day #13       | Need Help With Your Packing           | :white_large_square:      |
