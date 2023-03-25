@@ -145,5 +145,5 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #96       | [Beautiful Paintings](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-14/Day-96_Beautiful-Paintings)                   | :white_large_square:      |
 | Day #97       | [Elephant](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-14/Day-97_Elephant)                              | :white_large_square:      |
 | Day #98       | [Geography Of Brazil](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-14/Day-98_Geography-Of-Brazil)                   | :white_large_square:      |
-| Day #99       | [How Is The Weather](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-15/Day-99_Final-Hello-World)                    | :white_large_square:      |
-| Day #100      | [Final Hello World](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-15/Day-100_How-Is-The-Weather)                     | :white_large_square:      |
+| Day #99       | [How Is The Weather](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-15/Day-99_How-Is-The-Weather)                    | :white_large_square:      |
+| Day #100      | [Final Hello World](https://github.com/dom-sec/100-Days-Of-Rust/tree/main/Week-15/Day-100_Final-Hello-World)                     | :white_large_square:      |
