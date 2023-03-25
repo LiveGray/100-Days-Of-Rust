@@ -43,20 +43,40 @@ We encourage you to share your progress and ask questions in the Discussions sec
 [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
 
-# Project List - Will be updated soon
+# Project List
 
-| Day           | Project Name           | Completed                 |
-| ------------- |:----------------------:| -------------------------:|
-| Day #1        | hello_rainbow          | :white_check_mark:        |
-| Day #2        | guessing_game          | :white_check_mark:        |
-| Day #3        | sha1_cracker           | :white_check_mark:        |
-| Day #4        | random_quote           | :white_check_mark:        |
-| Day #5        | rock_ paper_ scissors  | :white_large_square:      |
-| Day #6        | dice_roller            | :white_large_square:      |
-| Day #7        | password_generator     | :white_check_mark:        |
-| Day #8        | ip_checker             | :white_large_square:      |
-| Day #9        | states_parser          | :white_check_mark:        |
-| Day #10       | us_presidents          | :white_large_square:      |
-| Day #11       | pig_latin              | :white_large_square:      |
-| Day #12       | card_dealer            | :white_large_square:      |
-| Day #13       | reverser               | :white_check_mark:        |
+| Day           | Project Name                       | Completed                 |
+| ------------- |:-------------------------------------:| -------------------------:|
+| Day #1        | Convert Age To Days                   | :white_large_square:      |
+| Day #2        | Finding Nemo                          | :white_large_square:      |
+| Day #3        | Barbecue Skewers                      | :white_large_square:      |
+| Day #4        | Is Johnny Making Progress             | :white_large_square:      |
+| Day #5        | Pair Of Socks                         | :white_large_square:      |
+| Day #6        | Next Prime                            | :white_large_square:      |
+| Day #7        | Merge Sorted Array                    | :white_large_square:      |
+| Day #8        | Letter Combinations Of A Phone Number | :white_large_square:      |
+| Day #9        | Trapping Rain Water                   | :white_large_square:      |
+| Day #10       | Unique Binary Search Tree             | :white_large_square:      |
+| Day #11       | Restore IP Addresses                  | :white_large_square:      |
+| Day #12       | Mountains or Valleys                  | :white_large_square:      |
+| Day #13       | Need Help With Your Packing           | :white_large_square:      |
+| Day #14       | The Karacas Encryption Algorithm      | :white_large_square:      |
+| Day #15       | Valid Anagram                         | :white_large_square:      |
+| Day #16       | Nim Game                              | :white_large_square:      |
+| Day #17       | Prison Break                          | :white_large_square:      |
+| Day #18       | Unique Paths                          | :white_large_square:      |
+| Day #19       | URL Shortener                         | :white_large_square:      |
+| Day #20       | API Challenge                         | :white_large_square:      |
+| Day #21       | Random Maze Generator                 | :white_large_square:      |
+| Day #22       | Marcio Mellos Challenge               | :white_large_square:      |
+| Day #23       | The Dining Philosophers               | :white_large_square:      |
+| Day #24       | The Josephus Problem                  | :white_large_square:      |
+| Day #25       | Coin Trouble                          | :white_large_square:      |
+| Day #26       | Briefcase Lock                        | :white_large_square:      |
+| Day #27       | Task Scheduler                        | :white_large_square:      |
+| Day #28       | Word Search                           | :white_large_square:      |
+| Day #29       | Traffic Light Checker                 | :white_large_square:      |
+| Day #30       | The Maximum Value                     | :white_large_square:      |
+
+
+
