@@ -1,27 +1,40 @@
-use std::io;
+use std::io::{stdin,stdout,Write};
+
+const NO_OF_DAYS_IN_YEAR: u32 = 365;
+
+fn convert_age_to_days(age: u32) -> u32 {
+    return age * NO_OF_DAYS_IN_YEAR;
+}
 
 fn main() {
 
-    loop {
+   loop {
+        // Prompt user for age
+        let mut age_str = String::new();
 
-    println!("Please input your age in years!");
+        println!("Plese enter your age in years. We will convert it to days.");
+        // Ensure that output is emitted immediately before reading 
+        // user input.
+        let _ = stdout().flush();
+        stdin().read_line(&mut age_str).expect("Failed to read line");
 
-    let mut guess = String::new();
-
-    
-        io::stdin()
-            .read_line(&mut guess)
-            .expect("Could not read age. Make you an integer is used.");
-        
-        let guess: u32 =  match guess.trim().parse() {
-            Ok(num) => num, 
-            Err(_) => continue,
+        let age = match age_str.trim().parse::<u32>() {
+            Ok(num) => num,
+            Err(e) => {
+                println!("Error: {}", e);
+                continue;
+            }
         };
+        println!("You are {} days old!", convert_age_to_days(age));
+        break;
+   }
+  
 
-        let age: u32 = guess * 365;
+   // Parse to int
 
-        println!("You are roughly {age} days old!")
+   // Convert to days 
 
-    }
+   // Output results
+
 
 }
